@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc_title_image">title image</string>
+    <string name="desc_question_image">question image</string>
+    <string name="desc_you_win_image">you win image</string>
+    <string name="desc_game_over_image">game over image</string>
+</resources>
